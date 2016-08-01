@@ -40,13 +40,14 @@
 #include <elemente.h>
 #include <box.h>
 #include <basemath.h>
+            Hallo
 #include <schneide.h>
 #include <schnitt.h>
 #include <konturop.h>
 #include <ncform.h>
 #include <verfahr.h>
 #include <g0verbin.h>
-#include <cut.h>
+
 
 
 /*****************************************************************************/
